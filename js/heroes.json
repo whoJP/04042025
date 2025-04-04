@@ -1,0 +1,60 @@
+{
+    "Hero": [
+      {
+        "nombre": "IronMan",
+        "liga": "Marvel",
+        "nivelPoder": 7,
+        "poderes": ["tecnologia", "rayo laser", "dinero"],
+        "foto": "https://image.api.playstation.com/vulcan/img/rnd/202010/2716/M2WqznjK7MWhViJNteq0TE3I.png"
+      },
+      {
+        "nombre": "Hulk",
+        "liga": "Marvel",
+        "nivelPoder": 10,
+        "poderes": ["Fuerza extrema", "radiacion"],
+        "foto": "https://e7.pngegg.com/pngimages/823/676/png-clipart-the-incredible-hulk-hulk-fist-comics-fantasy-thumbnail.png"
+      },
+      {
+        "nombre": "Dr. Strange",
+        "liga": "Marvel",
+        "nivelPoder": 9,
+        "poderes": ["Magia", "Volar"],
+        "foto": "https://es.web.img3.acsta.net/newsv7/16/10/17/16/14/042781.jpg"
+      },
+      {
+        "nombre": "Batman",
+        "liga": "DC",
+        "nivelPoder": 6,
+        "poderes": ["Inteligencia", "Artes marciales", "Tecnología"],
+        "foto": "https://wallpapers.com/images/hd/batman-pictures-7lmkay5wpt2k642g.jpg"
+      },
+      {
+        "nombre": "Superman",
+        "liga": "DC",
+        "nivelPoder": 10,
+        "poderes": ["Volar", "Superfuerza", "Visión láser"],
+        "foto": "https://upload.wikimedia.org/wikipedia/en/3/35/Supermanflying.png"
+      },
+      {
+        "nombre": "Wonder Woman",
+        "liga": "DC",
+        "nivelPoder": 9,
+        "poderes": ["Fuerza", "Agilidad", "Lazo de la verdad"],
+        "foto": "https://preview.redd.it/dcu-wonder-woman-with-or-without-cape-v0-m7yuo9gfofge1.png?width=640&crop=smart&auto=webp&s=d545351f4a9549b2fd59066ebea3cd4f9a87e01c"
+      },
+      {
+        "nombre": "Spider-Man",
+        "liga": "Marvel",
+        "nivelPoder": 8,
+        "poderes": ["Telarañas", "Agilidad", "Sentido arácnido"],
+        "foto": "https://upload.wikimedia.org/wikipedia/en/0/0c/Spiderman50.jpg"
+      },
+      {
+        "nombre": "Flash",
+        "liga": "DC",
+        "nivelPoder": 8,
+        "poderes": ["Supervelocidad", "Viajar en el tiempo"],
+        "foto": "https://upload.wikimedia.org/wikipedia/en/e/ea/Barry_Allen_Flash_%28DC_Rebirth%29.png"
+      }
+    ]
+  }
